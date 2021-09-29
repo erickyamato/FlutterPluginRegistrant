@@ -1,0 +1,2 @@
+# FlutterPluginRegistrant
+Pod of FlutterPluginRegistrant
